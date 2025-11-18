@@ -1,0 +1,2 @@
+# TypeAssist
+Typing assistant application
